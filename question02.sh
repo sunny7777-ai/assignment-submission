@@ -8,7 +8,7 @@ cd question2
 git init
 
 # Create a test file and commit
-#echo "Hello World!" > file1.txt
-#git add file1.txt
-#git commit -m "Initial commit"
+echo "Hello World!" > file.txt
+git add file1.txt
+git commit -m "Initial commit"
 
