@@ -1,0 +1,6 @@
+(base) huangjie@kis-MacBook-Air-2 part2 % /Users/huangjie/Desktop/csadelaide-nand2tetris/tools/HardwareSimulator.sh ALU-nostat.tst
+End of script - Comparison ended successfully
+(base) huangjie@kis-MacBook-Air-2 part2 % /Users/huangjie/Desktop/csadelaide-nand2tetris/tools/HardwareSimulator.sh ALU.tst      
+Comparison failure at line 2
+(base) huangjie@kis-MacBook-Air-2 part2 % 
+
